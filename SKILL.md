@@ -48,3 +48,4 @@ description: Generate Xiaohongshu-style content for Chinese social posts focused
 - 标准输出模板：`references/prompt.md`
 - 标题与钩子速查：`references/hooks.md`
 - 示例输入输出：`references/examples.md`
+- 案例场景库：`references/case-studies.md`
