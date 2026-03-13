@@ -88,6 +88,13 @@ Use this skill when the user asks for things like:
 - **关键词成稿**：只给主题词，也能先产出一个可直接发布的初版
 - **案例场景库**：新增 `references/case-studies.md`，方便快速覆盖高频用例
 
+
+## 输入到输出展示 / Input-to-output demo
+
+- Visual demo: `assets/input-output-demo.svg`
+- Output snapshot: `assets/demo-output.md`
+- 这类素材适合放在仓库首页、收录页、社媒转发图里
+
 ## 仓库展示素材 / Repo assets
 
 - Social preview: `assets/social-preview.svg`
