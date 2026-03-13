@@ -98,7 +98,11 @@ Use this skill when the user asks for things like:
 ## 仓库展示素材 / Repo assets
 
 - Social preview: `assets/social-preview.svg`
+- Input/output demo: `assets/input-output-demo.svg`
+- Result card mockup: `assets/mockup-results-card.svg`
+- Feed preview mockup: `assets/mockup-feed-preview.svg`
 - Showcase notes: `assets/README-showcase.md`
+- Asset gallery: `assets/gallery.md`
 - Case library: `references/case-studies.md`
 
 ## 内容策略 / Content strategy
@@ -123,14 +127,22 @@ By default, the skill leans toward:
 - 标题 A/B 测试
 - 热帖结构迁移
 
+## 当前亮点 / Current packaging wins
+
+- 双语 README
+- 多层展示素材（横版、竖版、结果卡片）
+- 高频案例库
+- GitHub metadata + topics
+- 轻量 repo health workflow
+
 ## 后续还能继续冲的方向 / Next upgrades
 
 如果后面还想继续提升展示和转化，可以再补：
-- 封面图模板资产
 - 更细分赛道版本（留学 / 教培 / 电商 / 自媒体）
 - 更强的对照式案例库
 - ClawHub 专用 metadata（如果平台公开规范）
 - 更完整的英文介绍页
+- 提交页/收录页专用截图
 
 ## License
 
