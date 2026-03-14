@@ -1,6 +1,11 @@
 ---
 name: xhs-content
 description: Generate Xiaohongshu-style content for Chinese social posts focused on 职场成长、副业探索、AI工具应用. Use when the user provides a hot post, topic, angle, notes, or rough draft and wants: (1) 爆款逻辑拆解, (2) 小红书标题与正文改写, (3) 话题标签, (4) 配图建议, or (5) multiple post variants for A/B testing.
+version: 1.0.0
+metadata:
+  openclaw:
+    emoji: "📝"
+    homepage: "https://github.com/xiaonizhou-crypto/xhs-content-skill"
 ---
 
 # 小红书内容生产 Skill
